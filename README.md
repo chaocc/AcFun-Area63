@@ -1,4 +1,4 @@
-AcFun-Area63
+AcFun-Area63  爽，你是大傻逼
 ============
 ![icon](https://raw.github.com/yrom/AcFun-Area63/master/app/icons/main/mipmap-xxhdpi/ic_launcher.png)
 Acfun 63区（文章区），来，战个痛～
